@@ -153,7 +153,7 @@
                     </ul>
                 </div>
             </section>
-            <section class="sect_hospital">
+            <section class="sect_hospital" style="display: none;">
                 <h2 class="title02"><span class="title02_medium">McCoom</span> 보유 병원 리스트</h2>
                 <!--  -->
                 
