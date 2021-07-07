@@ -1,5 +1,6 @@
 <?php
 $k = 0;
+$aaaa = 'bbb';
 $is_open = false;
 if (element('board_list', $view)) {
 	foreach (element('board_list', $view) as $key => $board) {
